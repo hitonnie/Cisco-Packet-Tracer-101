@@ -21,3 +21,7 @@ This repository will contain basic packet tracer network models
 <ul></ul>
 <img width="652" height="422" alt="6" src="https://github.com/user-attachments/assets/fd874dfa-d485-4b5a-8ad2-d4c44fb4d8ed" />
 <p>A repeater is a device used to boost weak signal to cover more distance</p>
+<H3>Implementing a access point into LAN</H3>
+<ul></ul>
+<img width="633" height="396" alt="7" src="https://github.com/user-attachments/assets/1cf1a7a4-097d-4664-abf6-2265269628de" />
+<p>The Lan has wireless devices and a switch connected to the access point, giving the computer a connect to it wired </p>
